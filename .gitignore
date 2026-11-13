@@ -1,0 +1,4 @@
+.dotnet-cli/
+XmlSearch/.packages/
+XmlSearch/**/bin/
+XmlSearch/**/obj/
